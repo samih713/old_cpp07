@@ -1,0 +1,36 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Werror",
+      "-Wextra",
+      "-std=c++98",
+      "-I./includes",
+      "-c",
+      "-o",
+      "objs/main.o",
+      "srcs/main.cpp"
+    ],
+    "directory": "/home/eva-1/42/cpp/cpp07/ex00",
+    "file": "/home/eva-1/42/cpp/cpp07/ex00/srcs/main.cpp",
+    "output": "/home/eva-1/42/cpp/cpp07/ex00/objs/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Werror",
+      "-Wextra",
+      "-std=c++98",
+      "-I./includes",
+      "-c",
+      "-o",
+      "objs/whatever.o",
+      "srcs/whatever.cpp"
+    ],
+    "directory": "/home/eva-1/42/cpp/cpp07/ex00",
+    "file": "/home/eva-1/42/cpp/cpp07/ex00/srcs/whatever.cpp",
+    "output": "/home/eva-1/42/cpp/cpp07/ex00/objs/whatever.o"
+  }
+]
